@@ -5,6 +5,7 @@
     "version": "NEUTRAL2",
     "root": "კეთ",
     "thema": "ებ",
+    "obj": "DIRECT",
     "exceptions": {}
   }
 ]
