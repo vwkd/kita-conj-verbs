@@ -7,5 +7,14 @@
     "thema": "ებ",
     "obj": "DIRECT",
     "exceptions": {}
+  },
+  {
+    "category": 1,
+    "preverb": "გა",
+    "version": "NEUTRAL2",
+    "root": "კეთ",
+    "thema": "ებ",
+    "obj": "INDIRECT",
+    "exceptions": {}
   }
 ]
