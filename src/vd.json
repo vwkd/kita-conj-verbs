@@ -4,6 +4,7 @@
     "preverb": "გა",
     "version": "NEUTRAL2",
     "root": "კეთ",
+    "root_srs2": null,
     "thema": "ებ",
     "obj": "DIRECT",
     "exceptions": {}
@@ -13,6 +14,7 @@
     "preverb": "გა",
     "version": "NEUTRAL2",
     "root": "კეთ",
+    "root_srs2": null,
     "thema": "ებ",
     "obj": "INDIRECT",
     "exceptions": {}
